@@ -1,0 +1,21 @@
+{
+    "friends":[
+        {
+            "name": "Vick",
+            "degree": "Computer Science"
+        },
+        {
+            "name": "Roseline",
+            "degree": "Psychology"
+        },
+        {
+            "name": "Pauline",
+            "degree": "Interior Design"
+        },
+        {
+            "name": "Mary",
+            "degree": "Business and Commerce"
+        }
+
+    ]
+}

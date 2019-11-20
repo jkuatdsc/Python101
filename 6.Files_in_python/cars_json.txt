@@ -1,0 +1,42 @@
+[
+    {
+        "make": "Toyota",
+        "model": "Allion"
+    },
+    {
+        "make": "Toyota",
+        "model": "Crown"
+    },
+    {
+        "make": "Toyota",
+        "model": "Mark x"
+    },
+    {
+        "make": "Subaru",
+        "model": "Imprezza"
+    },
+    {
+        "make": "Subaru",
+        "model": "Forester"
+    },
+    {
+        "make": "Subaru",
+        "model": "Legacy"
+    },
+    {
+        "make": "Volkswagen",
+        "model": "Toureg"
+    },
+    {
+        "make": "Volkswagen",
+        "model": "Tiguan"
+    },
+    {
+        "make": "Volkswagen",
+        "model": "Golf"
+    },
+    {
+        "make": "Volkswagen",
+        "model": "Beetle"
+    }
+]

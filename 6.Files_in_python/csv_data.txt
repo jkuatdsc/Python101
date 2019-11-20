@@ -1,0 +1,5 @@
+name,age,university,degree
+vick,20,MIT,Computer Science
+Roseline,22,Harvard,Psychology
+Pauline,19,Oxford,Interior Design
+Mary,21,Cambridge,Business and Commerce
