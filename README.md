@@ -29,11 +29,10 @@ cd Python101
 
 ```
 
-
 ## Covered topics
 
-|Topic| Content|
-|--|--|--|
+| Topic | Content |
+|---|----|
 |Introduction snippets| Variables|
 ||Math Operators|
 ||String formatting|
@@ -42,12 +41,10 @@ cd Python101
 ||Dictionaries|
 ||Lists|
 ||Turples and sets|
-
-  
   
 
 |Topic| Content|
-|--|--|--|
+|---|---|
 |Functions and loops| if statements|
 ||while loops|
 ||for loops|
@@ -62,7 +59,7 @@ cd Python101
   
 
 |Topic| Content
-|--|--|--|
+|---|---|
 |OOP Concepts| intro|
 ||classes and objects|
 ||param naming|
@@ -70,6 +67,9 @@ cd Python101
 ||inheritance|
 ||@property decorator|
 ||@classmethod and @static decorators|
+
+
+
 
 ### 6.Run the scripts
 
