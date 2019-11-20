@@ -1,0 +1,2 @@
+book a, author a, 0 
+book b, author b, 0 
